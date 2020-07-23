@@ -1,5 +1,5 @@
 ##  TITLE
- Football Predications
+ Football Predictions
 
 ## AUTHOR
  * Built By Faith Gakori
